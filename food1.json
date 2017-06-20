@@ -1,0 +1,58 @@
+[
+ {
+   "id": 1,
+   "Foodname": "Khorkhog ",
+   "pic": "khorkhog.jpg",
+   "title": "Mongolian National food",
+   "officePhone": 70117100,
+   "cellPhone": 900115131,
+   "Website": "http://pizzahut.mn",
+   "city": "Ulaanbaatar, Mongolia",
+   "picture": "khorkhog.jpg",
+   "Latitude": 47.925912,
+   "Longitude": 106.915541,
+   "address": "47.925912,106.915541"
+ },
+ {
+   "id": 2,
+   "Foodname": "Boodog ",
+   "pic": "boodog.jpg",
+   "title": "Mongolian National food",
+   "officePhone": 70110880,
+   "cellPhone": 99299618,
+   "Website": "http://narantrade.mn",
+   "city": "Ulaanbaatar, Mongolia",
+   "picture": "boodog.jpg",
+   "Latitude": 47.913638,
+   "Longitude": 106.905607,
+   "address": "47.913638,,106.905607"
+ },
+ {
+   "id": 3,
+   "Foodname": "Khuushuur",
+   "pic": "khuushuur.jpg",
+   "title": "Mongolian National food",
+   "officePhone": 70117102,
+   "cellPhone": 99043235,
+   "Website": "https://bayangolhotel.mn",
+   "city": "Ulaanbaatar, Mongolia",
+   "picture": "khuushuur.jpg",
+   "Latitude": 47.91878,
+   "Longitude": 106.90698,
+   "address": "47.91878,106.90698"
+ },
+ {
+   "id": 4,
+   "Foodname": "Buuz",
+   "pic": "buuz.jpg",
+   "title": "Mongolian National food",
+   "officePhone": 70117103,
+   "cellPhone": 99200646,
+   "Website": "http://www.modernnomads.mn",
+   "city": "Ulaanbaatar, Mongolia",
+   "picture": "buuz.jpg",
+   "Latitude": 47.916015,
+   "Longitude": 106.906055,
+   "address": "47.916015,106.906055"
+ }
+]
